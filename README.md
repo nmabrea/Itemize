@@ -1,2 +1,2 @@
 # Itemize
-Description: Kotlin code for an Android-hosted itemization app.
+Kotlin code for an Android-hosted itemization app.
